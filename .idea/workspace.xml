@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6ef8de1-31d1-4cf6-8b3f-14f7136485e5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main/起步计划.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="b6ef8de1-31d1-4cf6-8b3f-14f7136485e5" name="Changes" comment="起步计划" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +37,10 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "20",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -57,10 +61,32 @@
       <workItem from="1701219488719" duration="13000" />
       <workItem from="1701225423657" duration="76000" />
       <workItem from="1701312164991" duration="52000" />
+      <workItem from="1701312224798" duration="699000" />
     </task>
+    <task id="LOCAL-00001" summary="起步计划">
+      <option name="closed" value="true" />
+      <created>1701312285140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701312285140</updated>
+    </task>
+    <task id="LOCAL-00002" summary="起步计划">
+      <option name="closed" value="true" />
+      <created>1701313626310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1701313626310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="起步计划" />
+    <option name="LAST_COMMIT_MESSAGE" value="起步计划" />
   </component>
 </project>
